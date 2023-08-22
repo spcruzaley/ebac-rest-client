@@ -1,0 +1,17 @@
+Crear los pojos
+1.- Crear pojo para Usuario
+2.- Crear pojo para Telefono
+3.- Crear pojo para ResponseEntity
+4.- Crear pojo para ServiceResponse
+
+Crear cliente utilizando RestTemplate
+1.- Crear cliente
+2.- Crear servicio (Intermediario entre el cliente y el que lo manipula la información)
+3.- Crear el componente que utilizará al servicio (En este caso lo haremos desde clases Test)
+
+Crear cliente utilizando Feign
+0.- Agregar librerias
+1.- Crear cliente (Interfaz)
+2.- Crear una clase de configuración (Archivo properties)
+2.- Crear servicio (Intermediario entre el cliente y el que lo manipula la información)
+3.- Crear el componente que utilizará al servicio (En este caso lo haremos desde clases Test)
